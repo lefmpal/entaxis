@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entaxis - Action for Inclusion and Education</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .button:hover {
+            background-color: #555;
+        }
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Entaxis - Action for Inclusion and Education</h1>
+            <p><strong>ENTAXIS</strong></p>
+            <p>Action for inclusion and education</p>
+            <p><a href="#contact" class="button">Contact us</a></p>
+        </div>
+    </header>
+    
+    <section id="mission" class="container">
+        <h2>Our Mission</h2>
+        <p>Our mission is to promote social inclusion among marginalized persons who are subject to coarse or subtle forms of social exclusion. Entaxis aims to dispute social exclusion and advocate for an inclusive society where diversity is seen as a source of strength and not as a divider.</p>
+    </section>
+    
+    <section id="erasmus" class="container">
+        <h2>ERASMUS + PROJECTS</h2>
+        <p>Youth educational training activities for persons aged 15 to 30 years old.</p>
+        <p><a href="#" class="button">Read More</a></p>
+    </section>
+    
+    <section id="research" class="container">
+        <h2>RESEARCH & DEVELOPMENT</h2>
+        <p>Community action research for informed decision-making, research initiatives for project development, and youth projects.</p>
+        <p><a href="#" class="button">Read More</a></p>
+    </section>
+    
+    <section id="social" class="container">
+        <h2>SOCIAL DEVELOPMENT</h2>
+        <p>Social and educational activities in the region of Kavala for youth with and without developmental disabilities.</p>
+        <p><a href="#" class="button">Read More</a></p>
+    </section>
+    
+    <footer id="contact">
+        <div class="container">
+            <p>Entaxis - Action for Inclusion and Education</p>
+            <p>Copyright © All Rights Reserved</p>
+            <p><a href="mailto:info@entaxis-aie.org">info@entaxis-aie.org</a><br>Krinides, 64003 Kavala, Greece</p>
+        </div>
+    </footer>
+</body>
+</html>
